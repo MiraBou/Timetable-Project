@@ -2,5 +2,5 @@
 ## School Internship project 2019/2020
     - BackEnd  : Python / FastApi / SQLALCHEMY
     - FrontEnd : VueJs
-### Collaborator : 
+### Collaborator : https://github.com/Adib-Amine 
 
